@@ -1,6 +1,5 @@
 # IR - final project report
 
-## Part I: Biomedical dataset for STAR dense retrieval
 The implementation source code is based on the following projects
 1. DRhard -- https://github.com/jingtaozhan/DRhard 
 2. JTR -- https://github.com/CSHaitao/JTR/tree/main
